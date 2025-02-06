@@ -1,0 +1,51 @@
+paciente.c: In function ‘GetCartaoSusPaciente’:
+paciente.c:12:13: error: ‘tPaciente’ {aka ‘struct paciente’} has no member named ‘sus’
+   12 |     return p->sus;
+      |             ^~
+paciente.c: In function ‘GetQtdLesoesPaciente’:
+paciente.c:22:15: error: ‘tPaciente’ {aka ‘struct paciente’} has no member named ‘qtdLesao’; did you mean ‘qtdLesoes’?
+   22 |     return p->qtdLesao;
+      |               ^~~~~~~~
+      |               qtdLesoes
+paciente.c: In function ‘LePaciente’:
+paciente.c:75:11: warning: too many arguments for format [-Wformat-extra-args]
+   75 |     scanf("^[\n]\n", p->nome);
+      |           ^~~~~~~~~
+paciente.c:76:21: warning: implicit declaration of function ‘leData’; did you mean ‘LeData’? [-Wimplicit-function-declaration]
+   76 |     p->nascimento = leData();
+      |                     ^~~~~~
+      |                     LeData
+paciente.c:76:19: warning: assignment to ‘tData *’ {aka ‘struct data *’} from ‘int’ makes pointer from integer without a cast [-Wint-conversion]
+   76 |     p->nascimento = leData();
+      |                   ^
+paciente.c:77:11: warning: too many arguments for format [-Wformat-extra-args]
+   77 |     scanf("^[\n]\n", p->cartaoSus);
+      |           ^~~~~~~~~
+paciente.c:78:13: warning: format ‘%c’ expects argument of type ‘char *’, but argument 2 has type ‘int’ [-Wformat=]
+   78 |     scanf("%c\n", p->genero);
+      |            ~^     ~~~~~~~~~
+      |             |      |
+      |             char * int
+paciente.c: In function ‘ImprimePaciente’:
+paciente.c:90:23: warning: format ‘%s’ expects argument of type ‘char *’, but argument 2 has type ‘tLesao *’ {aka ‘struct lesao *’} [-Wformat=]
+   90 |             printf(" %s\n", p->listaLesao[i]);
+      |                      ~^     ~~~~~~~~~~~~~~~~
+      |                       |                  |
+      |                       char *             tLesao * {aka struct lesao *}
+paciente.c: In function ‘LiberaPaciente’:
+paciente.c:105:28: error: ‘tPaciente’ {aka ‘struct paciente’} has no member named ‘ListaLesao’; did you mean ‘listaLesao’?
+  105 |             LiberaLesao(p->ListaLesao[i]);
+      |                            ^~~~~~~~~~
+      |                            listaLesao
+paciente.c:108:17: error: ‘tPaciente’ {aka ‘struct paciente’} has no member named ‘ListaLesao’; did you mean ‘listaLesao’?
+  108 |         free(p->ListaLesao);
+      |                 ^~~~~~~~~~
+      |                 listaLesao
+paciente.c: In function ‘GetCartaoSusPaciente’:
+paciente.c:13:1: warning: control reaches end of non-void function [-Wreturn-type]
+   13 | }
+      | ^
+paciente.c: In function ‘GetQtdLesoesPaciente’:
+paciente.c:23:1: warning: control reaches end of non-void function [-Wreturn-type]
+   23 | }
+      | ^

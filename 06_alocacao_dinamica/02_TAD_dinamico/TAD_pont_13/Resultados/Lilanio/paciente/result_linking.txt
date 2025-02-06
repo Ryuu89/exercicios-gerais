@@ -1,0 +1,17 @@
+/usr/bin/ld: Resultados/Lilanio/paciente/pad.o: in function `IdentificaPacientePad':
+pad.c:(.text+0x8d): undefined reference to `GetCartaoSusPaciente'
+/usr/bin/ld: Resultados/Lilanio/paciente/pad.o: in function `RodaPad':
+pad.c:(.text+0x127): undefined reference to `CriaPaciente'
+/usr/bin/ld: pad.c:(.text+0x137): undefined reference to `LePaciente'
+/usr/bin/ld: pad.c:(.text+0x1ba): undefined reference to `AdicionaLesaoPaciente'
+/usr/bin/ld: Resultados/Lilanio/paciente/pad.o: in function `LiberaPad':
+pad.c:(.text+0x217): undefined reference to `LiberaPaciente'
+/usr/bin/ld: Resultados/Lilanio/paciente/pad.o: in function `CalcMediaIdadePad':
+pad.c:(.text+0x280): undefined reference to `GetNascimentoPaciente'
+/usr/bin/ld: Resultados/Lilanio/paciente/pad.o: in function `ImprimeListaPacientesPad':
+pad.c:(.text+0x309): undefined reference to `ImprimePaciente'
+/usr/bin/ld: Resultados/Lilanio/paciente/pad.o: in function `CalcTotalLesoesPad':
+pad.c:(.text+0x34f): undefined reference to `GetQtdLesoesPaciente'
+/usr/bin/ld: Resultados/Lilanio/paciente/pad.o: in function `CalcTotalCirurgiasPad':
+pad.c:(.text+0x399): undefined reference to `GetQtdCirurgiasPaciente'
+collect2: error: ld returned 1 exit status
