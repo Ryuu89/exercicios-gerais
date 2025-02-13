@@ -1,0 +1,342 @@
+- Arquivo de configuração encontrado!
+ - Arquivos header necessários do professor existem na pasta Includes
+ - Arquivos objetos necessários do professor existem na pasta Gabarito-obj.
+
+#######################################
+ALUNO: Lilanio
+#######################################
+
+CRIANDO O DIRETÓRIO DE RESULTADO PARA Lilanio:
+ - Diretório Resultados/Lilanio criado com sucesso!
+ - Diretório Resultados/Lilanio/main criado com sucesso!
+ - Diretório Resultados/Lilanio/completo criado com sucesso!
+ - Diretório Resultados/Lilanio/data criado com sucesso!
+ - Diretório Resultados/Lilanio/gerenciador criado com sucesso!
+ - Diretório Resultados/Lilanio/lesao criado com sucesso!
+ - Diretório Resultados/Lilanio/paciente criado com sucesso!
+ - Arquivos criados: ok!
+
+CHECKANDO OS ARQUIVOS DO ALUNO:
+ - Arquivo esperado 'Respostas/Lilanio/data.c' encontrado!
+ - Arquivo esperado 'Respostas/Lilanio/data.h' encontrado!
+ - Arquivo esperado 'Respostas/Lilanio/gerenciador.c' encontrado!
+ - Arquivo esperado 'Respostas/Lilanio/gerenciador.h' encontrado!
+ - Arquivo esperado 'Respostas/Lilanio/lesao.c' encontrado!
+ - Arquivo esperado 'Respostas/Lilanio/lesao.h' encontrado!
+ - Arquivo esperado 'Respostas/Lilanio/main.c' não encontrado!
+ - Arquivo esperado 'Respostas/Lilanio/paciente.c' encontrado!
+ - Arquivo esperado 'Respostas/Lilanio/paciente.h' encontrado!
+ - Arquivos esperados enviados: Faltando!
+
+COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
+ - Pasta main:
+ - Copiando os Casos de teste para a pasta Resultados/Lilanio/main
+ - Copiando os Includes/data.h Includes/gerenciador.h Includes/lesao.h Includes/paciente.h do professor para a pasta Resultados/Lilanio/main
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Lilanio/main
+ - Removendo o main.o do professor da pasta Resultados/Lilanio/main
+ - Copiando o Respostas/Lilanio/main.c do aluno para a pasta Resultados/Lilanio/main
+ - Pasta completo:
+ - Copiando os Casos de teste para a pasta Resultados/Lilanio/completo
+ - Copiando os Respostas/Lilanio/data.c do aluno para a pasta Resultados/Lilanio/completo
+ - Copiando os Respostas/Lilanio/data.h do aluno para a pasta Resultados/Lilanio/completo
+ - Copiando os Respostas/Lilanio/gerenciador.c do aluno para a pasta Resultados/Lilanio/completo
+ - Copiando os Respostas/Lilanio/gerenciador.h do aluno para a pasta Resultados/Lilanio/completo
+ - Copiando os Respostas/Lilanio/lesao.c do aluno para a pasta Resultados/Lilanio/completo
+ - Copiando os Respostas/Lilanio/lesao.h do aluno para a pasta Resultados/Lilanio/completo
+ - Copiando os Respostas/Lilanio/main.c do aluno para a pasta Resultados/Lilanio/completo
+ - Copiando os Respostas/Lilanio/paciente.c do aluno para a pasta Resultados/Lilanio/completo
+ - Copiando os Respostas/Lilanio/paciente.h do aluno para a pasta Resultados/Lilanio/completo
+ - Pasta data:
+ - Copiando os Casos de teste para a pasta Resultados/Lilanio/data
+ - Copiando os Includes/data.h Includes/gerenciador.h Includes/lesao.h Includes/paciente.h do professor para a pasta Resultados/Lilanio/data
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Lilanio/data
+ - Removendo o data.o do professor da pasta Resultados/Lilanio/data
+ - Copiando o Respostas/Lilanio/data.c do aluno para a pasta Resultados/Lilanio/data
+ - Pasta gerenciador:
+ - Copiando os Casos de teste para a pasta Resultados/Lilanio/gerenciador
+ - Copiando os Includes/data.h Includes/gerenciador.h Includes/lesao.h Includes/paciente.h do professor para a pasta Resultados/Lilanio/gerenciador
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Lilanio/gerenciador
+ - Removendo o gerenciador.o do professor da pasta Resultados/Lilanio/gerenciador
+ - Copiando o Respostas/Lilanio/gerenciador.c do aluno para a pasta Resultados/Lilanio/gerenciador
+ - Pasta lesao:
+ - Copiando os Casos de teste para a pasta Resultados/Lilanio/lesao
+ - Copiando os Includes/data.h Includes/gerenciador.h Includes/lesao.h Includes/paciente.h do professor para a pasta Resultados/Lilanio/lesao
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Lilanio/lesao
+ - Removendo o lesao.o do professor da pasta Resultados/Lilanio/lesao
+ - Copiando o Respostas/Lilanio/lesao.c do aluno para a pasta Resultados/Lilanio/lesao
+ - Pasta paciente:
+ - Copiando os Casos de teste para a pasta Resultados/Lilanio/paciente
+ - Copiando os Includes/data.h Includes/gerenciador.h Includes/lesao.h Includes/paciente.h do professor para a pasta Resultados/Lilanio/paciente
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Lilanio/paciente
+ - Removendo o paciente.o do professor da pasta Resultados/Lilanio/paciente
+ - Copiando o Respostas/Lilanio/paciente.c do aluno para a pasta Resultados/Lilanio/paciente
+ - Copiando Arquivos Extras do Aluno:
+ - Arquivos copiados: ok!
+
+COMPILANDO OS ARQUIVOS NA PASTA DE RESULTADO DO ALUNO:
+ - Erro de compilação! Verifique os arquivos da pasta main.
+ - Compilação dos arquivos do aluno na pasta completo ok!
+ - Arquivo de output gerado: Resultados/Lilanio/completo/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta data ok!
+ - Arquivo de output gerado: Resultados/Lilanio/data/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta gerenciador ok!
+ - Arquivo de output gerado: Resultados/Lilanio/gerenciador/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta lesao ok!
+ - Arquivo de output gerado: Resultados/Lilanio/lesao/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta paciente ok!
+ - Arquivo de output gerado: Resultados/Lilanio/paciente/result_compilation.txt
+ - Arquivos Compilados: Erro!: 1 arquivos com erros de compilacao.
+
+ - Arquivos Compilados: ok!
+
+LINKANDO OS ARQUIVOS COMPILADOS:
+ - Pasta main:
+ - Gerando o binário prog linkando com o(s) arquivo(s) main/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/Lilanio/main/result_linking.txt
+ - Pasta completo:
+ - Gerando o binário prog linkando com o(s) arquivo(s) completo/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/Lilanio/completo/result_linking.txt
+ - Pasta data:
+ - Gerando o binário prog linkando com o(s) arquivo(s) data/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Lilanio/data/result_linking.txt
+ - Pasta gerenciador:
+ - Gerando o binário prog linkando com o(s) arquivo(s) gerenciador/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Lilanio/gerenciador/result_linking.txt
+ - Pasta lesao:
+ - Gerando o binário prog linkando com o(s) arquivo(s) lesao/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Lilanio/lesao/result_linking.txt
+ - Pasta paciente:
+ - Gerando o binário prog linkando com o(s) arquivo(s) paciente/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Lilanio/paciente/result_linking.txt
+ - Arquivos Linkados: Erro! 2 arquivos com erros de linkagem.
+
+EXECUTANDO O VALGRIND EM CADA CASO:
+ - Pasta main / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 4:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 5:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 6:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta main (máximo 1.00) - 0 de 60 - 0% de 1.00: 0.
+ -----
+ - Pasta completo / Caso 1:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 2:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 3:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 4:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 5:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 6:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta completo (máximo 0.50) - 0 de 60 - 0% de 0.50: 0.
+ -----
+ - Pasta data / Caso 1:
+ - Arquivo de output gerado: Resultados/Lilanio/data/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 38, frees: 38, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta data / Caso 2:
+ - Arquivo de output gerado: Resultados/Lilanio/data/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 14, frees: 14, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta data / Caso 3:
+ - Arquivo de output gerado: Resultados/Lilanio/data/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 19, frees: 19, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta data / Caso 4:
+ - Arquivo de output gerado: Resultados/Lilanio/data/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 29, frees: 29, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta data / Caso 5:
+ - Arquivo de output gerado: Resultados/Lilanio/data/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 5, frees: 5, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta data / Caso 6:
+ - Arquivo de output gerado: Resultados/Lilanio/data/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 9, frees: 9, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta data (máximo 0.50) - 60.00 de 60 - 100.00% de 0.50: .50.
+ -----
+ - Pasta gerenciador / Caso 1:
+ - Arquivo de output gerado: Resultados/Lilanio/gerenciador/Casos/1/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 4, frees: 4, errors: 1 | Desconto do valgrind 40.00%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta gerenciador / Caso 2:
+ - Arquivo de output gerado: Resultados/Lilanio/gerenciador/Casos/2/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 4, frees: 4, errors: 1 | Desconto do valgrind 40.00%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta gerenciador / Caso 3:
+ - Arquivo de output gerado: Resultados/Lilanio/gerenciador/Casos/3/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 4, frees: 4, errors: 1 | Desconto do valgrind 40.00%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta gerenciador / Caso 4:
+ - Arquivo de output gerado: Resultados/Lilanio/gerenciador/Casos/4/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 4, frees: 4, errors: 1 | Desconto do valgrind 40.00%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 40.0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta gerenciador / Caso 5:
+ - Arquivo de output gerado: Resultados/Lilanio/gerenciador/Casos/5/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 4, frees: 4, errors: 1 | Desconto do valgrind 40.00%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 40.0% (desconto do valgrind) = 6.00 de 10 pontos.
+ - Pasta gerenciador / Caso 6:
+ - Arquivo de output gerado: Resultados/Lilanio/gerenciador/Casos/6/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 4, frees: 4, errors: 1 | Desconto do valgrind 40.00%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 40.0% (desconto do valgrind) = 6.00 de 10 pontos.
+ - Nota para a pasta gerenciador (máximo 4.50) - 12.00 de 60 - 20.00% de 4.50: .90.
+ -----
+ - Pasta lesao / Caso 1:
+ - Arquivo de output gerado: Resultados/Lilanio/lesao/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 38, frees: 38, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta lesao / Caso 2:
+ - Arquivo de output gerado: Resultados/Lilanio/lesao/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 14, frees: 14, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta lesao / Caso 3:
+ - Arquivo de output gerado: Resultados/Lilanio/lesao/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 19, frees: 19, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta lesao / Caso 4:
+ - Arquivo de output gerado: Resultados/Lilanio/lesao/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 29, frees: 29, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta lesao / Caso 5:
+ - Arquivo de output gerado: Resultados/Lilanio/lesao/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 5, frees: 5, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta lesao / Caso 6:
+ - Arquivo de output gerado: Resultados/Lilanio/lesao/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 9, frees: 9, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta lesao (máximo 1.00) - 60.00 de 60 - 100.00% de 1.00: 1.00.
+ -----
+ - Pasta paciente / Caso 1:
+ - Arquivo de output gerado: Resultados/Lilanio/paciente/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 38, frees: 38, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta paciente / Caso 2:
+ - Arquivo de output gerado: Resultados/Lilanio/paciente/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 14, frees: 14, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta paciente / Caso 3:
+ - Arquivo de output gerado: Resultados/Lilanio/paciente/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 19, frees: 19, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta paciente / Caso 4:
+ - Arquivo de output gerado: Resultados/Lilanio/paciente/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 29, frees: 29, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta paciente / Caso 5:
+ - Arquivo de output gerado: Resultados/Lilanio/paciente/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 5, frees: 5, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta paciente / Caso 6:
+ - Arquivo de output gerado: Resultados/Lilanio/paciente/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 9, frees: 9, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta paciente (máximo 2.50) - 60.00 de 60 - 100.00% de 2.50: 2.50.
+ -----
+
+#######################################
+RESULTADOS FINAIS
+#######################################
+
+----------------------------------------------------------------------------
+Aluno: Lilanio
+ - Arquivos Esperados Corretos: 8 de 9
+ - Pastas Compiladas Corretamente: 5 de 6 
+ - Pastas Linkadas Corretamente: 4 de 6
+ - Teste main
+ - Resultados corretos: 0 de 6
+ - Valgrinds corretos: 0 de 6
+ - Nota de Lilanio para o teste main: 0
+ - Teste completo
+ - Resultados corretos: 0 de 6
+ - Valgrinds corretos: 0 de 6
+ - Nota de Lilanio para o teste completo: 0
+ - Teste data
+ - Resultados corretos: 6 de 6
+ - Valgrinds corretos: 6 de 6
+ - Nota de Lilanio para o teste data: .50
+ - Teste gerenciador
+ - Resultados corretos: 2 de 6
+ - Valgrinds corretos: 0 de 6
+ - Nota de Lilanio para o teste gerenciador: .90
+ - Teste lesao
+ - Resultados corretos: 6 de 6
+ - Valgrinds corretos: 6 de 6
+ - Nota de Lilanio para o teste lesao: 1.00
+ - Teste paciente
+ - Resultados corretos: 6 de 6
+ - Valgrinds corretos: 6 de 6
+ - Nota de Lilanio para o teste paciente: 2.50
+ - Nota de Lilanio: 0+(0)+(1.00)+(0)+(2.50)+(.50)+(.90)
+ - Nota de Lilanio: 4.90
+
+----------------------------------------------------------------------------
+
+Arquivo CSV Resultado.csv com os resultados finais foi gerado na pasta raíz!
+
+
+

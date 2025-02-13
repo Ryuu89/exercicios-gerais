@@ -1,0 +1,20 @@
+==187723== Memcheck, a memory error detector
+==187723== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==187723== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==187723== Command: Resultados/Lilanio/gerenciador/prog Resultados/Lilanio/gerenciador/Casos/4
+==187723== Parent PID: 187722
+==187723== 
+==187723== Conditional jump or move depends on uninitialised value(s)
+==187723==    at 0x109684: preencheBancoPacientesGerenciador (in /workspaces/exercicios-gerais/10_extras/EA2-publico/Resultados/Lilanio/gerenciador/prog)
+==187723==    by 0x109BE4: main (in /workspaces/exercicios-gerais/10_extras/EA2-publico/Resultados/Lilanio/gerenciador/prog)
+==187723== 
+==187723== 
+==187723== HEAP SUMMARY:
+==187723==     in use at exit: 0 bytes in 0 blocks
+==187723==   total heap usage: 4 allocs, 4 frees, 8,216 bytes allocated
+==187723== 
+==187723== All heap blocks were freed -- no leaks are possible
+==187723== 
+==187723== Use --track-origins=yes to see where uninitialised values come from
+==187723== For lists of detected and suppressed errors, rerun with: -s
+==187723== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)
