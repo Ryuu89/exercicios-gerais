@@ -1,0 +1,4 @@
+/usr/bin/ld: Resultados/Lilanio/prisao/main.o: in function `main':
+main.c:(.text+0x92): undefined reference to `criaPrisao'
+/usr/bin/ld: main.c:(.text+0xa1): undefined reference to `executaPrisao'
+collect2: error: ld returned 1 exit status
