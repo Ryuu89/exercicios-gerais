@@ -1,0 +1,10 @@
+Arquivos
+	saida.txt=10
+Valgrind
+	desconto=0.5
+Validações
+	main=0.50
+	completo=2.00
+	registro=2.50
+	jogador=2.50
+    servidor=2.50

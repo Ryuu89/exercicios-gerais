@@ -1,0 +1,15 @@
+==56830== Memcheck, a memory error detector
+==56830== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==56830== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==56830== Command: Resultados/Lilanio/main/prog Resultados/Lilanio/main/Casos/5
+==56830== Parent PID: 56829
+==56830== 
+==56830== 
+==56830== HEAP SUMMARY:
+==56830==     in use at exit: 0 bytes in 0 blocks
+==56830==   total heap usage: 102 allocs, 102 frees, 236,592 bytes allocated
+==56830== 
+==56830== All heap blocks were freed -- no leaks are possible
+==56830== 
+==56830== For lists of detected and suppressed errors, rerun with: -s
+==56830== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

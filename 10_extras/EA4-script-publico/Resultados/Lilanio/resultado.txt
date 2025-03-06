@@ -1,0 +1,25 @@
+Arquivos Esperados Corretos: 7 de 7
+Pastas Compiladas Corretamente: 5 de 5 
+Pastas Linkadas Corretamente: 5 de 5
+Teste main
+  - Resultados corretos: 5 de 5
+  - Valgrinds corretos: 5 de 5
+Nota de Lilanio para o teste main: .50
+Teste completo
+  - Resultados corretos: 5 de 5
+  - Valgrinds corretos: 5 de 5
+Nota de Lilanio para o teste completo: 2.00
+Teste registro
+  - Resultados corretos: 5 de 5
+  - Valgrinds corretos: 5 de 5
+Nota de Lilanio para o teste registro: 2.50
+Teste jogador
+  - Resultados corretos: 5 de 5
+  - Valgrinds corretos: 5 de 5
+Nota de Lilanio para o teste jogador: 2.50
+Teste servidor
+  - Resultados corretos: 5 de 5
+  - Valgrinds corretos: 5 de 5
+Nota de Lilanio para o teste servidor: 2.50
+Nota de Lilanio: 0+(2.00)+(.50)+(2.50)+(2.50)+(2.50)
+Nota de Lilanio: 10.00
